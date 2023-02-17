@@ -1,1 +1,1 @@
-# modelo-3D-de-um-sistema-solar-simples
+# Este é um modelo 3D simples do sistema solar usando a biblioteca 'vpython'.
